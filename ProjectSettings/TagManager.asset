@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lice
+  - motherlice
+  - nit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - tools
+  - hair1
+  - lice
+  - hair2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3929683219
+    locked: 0
+  - name: TEXT
+    uniqueID: 4088820703
+    locked: 0
+  - name: TEXTLVL2
+    uniqueID: 970019827
+    locked: 0
+  - name: button
+    uniqueID: 3114915593
+    locked: 0
